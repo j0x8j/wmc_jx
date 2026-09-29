@@ -7,6 +7,7 @@ Befehle im Terminal:
 - ssh
 # HTML Basic
 **Fortsetzung von letzen [Unterrichtseinheit](https://github.com/georgernstgraf/GRG-WMC/tree/main/3caif/2026-09-22_html-basics)**
+<br>
 Prof. stellt HTML DOM (Dokument Object Modell) vor mit Bsp. von seiner [demo.html](https://github.com/georgernstgraf/GRG-WMC/blob/main/3caif/2026-09-22_html-basics/demo.html)
 # CSS Basic
 Heute haben wir die Grundlagen von CSS kennengelernt. Dabei haben wir die drei Möglichkeiten zur Einbindung von CSS behandelt: Inline, intern im <style>-Block und extern über eine style.css. Außerdem haben wir Selektoren wie Elemente, Klassen und IDs kennengelernt.
