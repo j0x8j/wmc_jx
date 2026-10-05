@@ -6,7 +6,7 @@ Befehle im Terminal:
 - pwd (ident unter Windows)
 - ssh
 # HTML Basic
-**Fortsetzung von letzen [Unterrichtseinheit](https://github.com/georgernstgraf/GRG-WMC/tree/main/3caif/2026-09-22_html-basics)**
+**Fortsetzung von letzen [Unterrichtseinheit](https://github.com/georgernstgraf/GRG-WMC/tree/main/3caif/2026-09-29_html-basics)**
 <br>
 Prof. stellt HTML DOM (Dokument Object Modell) vor mit Bsp. von seiner [demo.html](https://github.com/georgernstgraf/GRG-WMC/blob/main/3caif/2026-09-22_html-basics/demo.html)
 # CSS Basic
