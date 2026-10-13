@@ -6,7 +6,7 @@ Prof LOD zeigt Box-Modell mittel Dev-tool im Borwser. Revision von letzte Stunde
 
 # Formular
 
-Aufbau eines Formulars
+A  ufbau eines Formulars
 `form`-tag
 
 - action
@@ -17,6 +17,8 @@ Atributte:
 
 - input
 - type
+
+  - text
   - radio
   - checkbox
   - hidden
@@ -25,6 +27,7 @@ Atributte:
 - name
 - value
 - select (Drop-down)
+
   - option
   - multiple (mehrere auswahl)
 - textarea

@@ -9,35 +9,35 @@
     <h1>Formular</h1>
     <form action="mailto:JI220083@spengergasse.at?subject=Kontaktformular" method="post" enctype="text/plain">
         <label for="vorname">Vorname:</label>
-        <input type="text" name="vorname">
+        <input type="text" name="vorname" id="vorname">
         <label for="nachname">Nachname:</label>
-        <input type="text" name="nachname">
+        <input type="text" name="nachname" id="nachname">
         <br>
         <p>Geschlecht:</p>
-        <label for="geschlecht">Weiblich</label>
-        <input type="radio" name="geschlecht" value="weiblich"><br>
-        <label for="geschlecht">Männlich</label>
-        <input type="radio" name="geschlecht" value="maennlich"><br>
-        <label for="geschlecht">Divers</label>
-        <input type="radio" name="geschlecht" value="divers">
+        <label for="weiblich">Weiblich</label>
+        <input type="radio" name="geschlecht" value="weiblich" id="weiblich">
+        <label for="maennlich">Männlich</label>
+        <input type="radio" name="geschlecht" value="maennlich" id="maennlich">
+        <label for="divers">Divers</label>
+        <input type="radio" name="geschlecht" value="divers" id="divers">
         <br>
         <br>
         <label for="buchstabe">Lieblingsbuchstabe:</label>
-        <select name="buchstabe">
+        <select name="buchstabe" id="buchstabe">
             <option value="a">A</option>
             <option value="b">B</option>
             <option value="c">C</option>
         </select>
         <br><br>
         <label for="hobby">Hobbys:</label>
-        <select name="hobby" multiple>
+        <select name="hobby" id="hobby" multiple>
             <option value="schwimmen">Schwimmen</option>
             <option value="laufen">Laufen</option>
             <option value="lesen">Lesen</option>
         </select>
         <br>
         <p>Wie zufrieden bist du mit dem Formular? Schreibe gerne deinen Kommentar:</p>
-        <textarea name="kommentar" placeholder="Kommentar"></textarea>
+        <textarea name="kommentar" id="kommentar" placeholder="Kommentar"></textarea>
         <br>
         <input type="submit" value="Absenden">
         <input type="reset" value="Zurücksetzen">
